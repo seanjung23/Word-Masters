@@ -1,2 +1,2 @@
-# Wordy-Masters
+# Word-Masters
 Wordle clone
