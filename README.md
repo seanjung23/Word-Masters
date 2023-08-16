@@ -1,2 +1,2 @@
-# Word-Masters
+# word-masters
 Wordle game clone
